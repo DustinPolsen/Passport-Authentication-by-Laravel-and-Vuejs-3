@@ -1,0 +1,8 @@
+{
+ "recommendations": [
+  "thekalinga.bootstrap4-vscode",
+  "octref.vetur",
+  "predrag-nikolic.php-class-helper",
+  "stef-k.laravel-goto-controller"
+ ]
+}
